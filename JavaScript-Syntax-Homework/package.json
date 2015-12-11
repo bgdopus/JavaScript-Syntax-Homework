@@ -1,0 +1,10 @@
+{
+  "name": "JavaScript-Syntax-Homework",
+  "version": "0.0.0",
+  "description": "JavaScript-Syntax-Homework",
+  "main": "app.js",
+  "author": {
+    "name": "dopus",
+    "email": ""
+  }
+}
